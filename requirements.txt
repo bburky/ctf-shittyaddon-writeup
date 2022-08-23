@@ -1,4 +1,4 @@
 smbus2==0.3.0
 ipython==7.9.0
 jupyterlab==1.2.3
-nbconvert==5.6.1
+nbconvert==6.5.1
